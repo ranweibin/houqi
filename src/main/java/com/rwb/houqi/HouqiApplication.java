@@ -10,6 +10,7 @@ public class HouqiApplication {
 
     public static void main(String[] args) {
 
+
         SpringApplication.run(HouqiApplication.class, args);
     }
 
